@@ -4,9 +4,10 @@
 
 https://www.youtube.com/watch?v=CBYhVcO4WgI
 
+#Paul Graham Articles
+http://paulgraham.com/articles.html
 
 #Do things that dont scale
-
 http://paulgraham.com/ds.html
 
 #Lecture 1: https://www.youtube.com/watch?v=CBYhVcO4WgI
